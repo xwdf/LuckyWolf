@@ -1,5 +1,5 @@
 {
 "geo":"",
 "view":"https://www.google.ru/",
-"appsChecker":"0"
+"appsChecker":"1"
 }
